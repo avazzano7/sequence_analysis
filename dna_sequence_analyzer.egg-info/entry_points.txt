@@ -1,0 +1,2 @@
+[console_scripts]
+dna-analyzer = dna_sequence_analyzer.sequence:main
